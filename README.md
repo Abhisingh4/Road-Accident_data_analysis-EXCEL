@@ -17,12 +17,19 @@ To analyze the road accident data, the project employed time series analysis tec
 
 # Key InSights
 🔹 The number of accidents in 2022 decreased by 11.7% compared to 2021.
+
 🔹 Fatal casualties dropped by 33.3% in 2022, indicating positive road safety measures.
+
 🔹 Serious and minor casualties also decreased by 16.2% and 10.6% respectively in 2022.
+
 🔹Cars, vans, and bikes were identified as the primary vehicles involved in major casualties.
+
 🔹The accidents are maximum on the single carriageway road type, followed by Dual Carriage Way.
+
 🔹 Majority of casualties (73.84%) occurred in daylight, while 26.16% happened in the dark.
+
+
 🔹Urban areas accounted for 61.95% of casualties, while rural areas contributed to 38.05%.
 
-# nteractive Excel Dashboard
+# Interactive Excel Dashboard
 The project includes an interactive Excel dashboard that serves as a comprehensive visualization tool for the analyzed road accident data. The dashboard allows users to explore the data, filter information based on various parameters, and interactively examine the trends and patterns identified during the analysis.
